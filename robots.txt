@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+User-agent: Baiduspider
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+Sitemap: https://gpts.chataic.online
